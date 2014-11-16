@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Triangula", "Triangula\Triangula.fsproj", "{B7DFF6C8-CB52-406B-B32B-47144F9F682A}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Triangula.Tests", "Triangula.Tests\Triangula.Tests.fsproj", "{50B7FAC2-948A-44DB-93A6-F5528F99ACC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7DFF6C8-CB52-406B-B32B-47144F9F682A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7DFF6C8-CB52-406B-B32B-47144F9F682A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7DFF6C8-CB52-406B-B32B-47144F9F682A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7DFF6C8-CB52-406B-B32B-47144F9F682A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50B7FAC2-948A-44DB-93A6-F5528F99ACC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50B7FAC2-948A-44DB-93A6-F5528F99ACC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50B7FAC2-948A-44DB-93A6-F5528F99ACC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50B7FAC2-948A-44DB-93A6-F5528F99ACC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
