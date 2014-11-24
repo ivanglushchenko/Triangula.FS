@@ -47,8 +47,11 @@
     <Reference Include="System.Numerics" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Pos.fs" />
     <Compile Include="Definitions.fs" />
+    <Compile Include="Pos.fs" />
+    <Compile Include="Edge.fs" />
+    <Compile Include="Triangle.fs" />
+    <Compile Include="BoardDefinition.fs" />
   </ItemGroup>
   <PropertyGroup>
     <MinimumVisualStudioVersion Condition="'$(MinimumVisualStudioVersion)' == ''">11</MinimumVisualStudioVersion>
